@@ -1,0 +1,40 @@
+---
+title: "An Overview of the UC Davis Dissertation Year Fellowship"
+author: "Priya Shukla"
+date: "November 16, 2021"
+output: 
+  ioslides_presentation:
+    incremental: true
+    widescreen: true
+    #smaller: true
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## WHAT IT EVEN IS | Why are we putting ourselves through this?
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
