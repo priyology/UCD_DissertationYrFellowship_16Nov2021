@@ -1,5 +1,5 @@
 ---
-title: "An Overview of the UC Davis Dissertation Year Fellowship"
+title: "An Overview of the UC Davis Dissertation Year Fellowship (2022)"
 author: "Priya Shukla"
 date: "November 16, 2021"
 output: 
@@ -14,27 +14,170 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## WHAT IT EVEN IS | Why are we putting ourselves through this?
+## UCD DISSERTATION YEAR FELLOWSHIP (2022) | Components
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+- 12-month fellowship
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+- Must have advanced to candidacy
 
-## Slide with Bullets
+- Award includes
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+  - $25,200 stipend
+  
+  - Tuition & fees covered
+  
+  - Research fund: $500
+  
+  - Travel allowance: $500
 
-## Slide with R Output
+- **SIX** fellowships will be awarded
 
-```{r cars, echo = TRUE}
-summary(cars)
-```
+## UCD DISSERTATION YEAR FELLOWSHIP (2022) | Eligibility
 
-## Slide with Plot
+- This is considered a **"fellowship that promotes diversity"**
 
-```{r pressure}
-plot(pressure)
-```
+- Must have an interest in an academic career in teaching / research
 
+- Be a United States Citizen, Permanent Resident, or qualify for California AB 540
+
+- Meet one of 6 criteria: more info available [here](https://grad.ucdavis.edu/annual-internal-fellowship-competition-continuing-graduate-students)
+
+## UCD DISSERTATION YEAR FELLOWSHIP (2022) | Eligibility
+
+  -  Demonstrate potential to bring to their academic research the perspective that comes from their understanding of the experiences of groups historically underrepresented in higher education or underserved by academic research generally
+  
+  - Provide evidence of academic achievement while overcoming barriers such as economic, social or educational disadvantage.
+  
+  - Demonstrate potential to contribute to higher education through the understanding of the barriers facing disadvantaged groups
+  
+## UCD DISSERTATION YEAR FELLOWSHIP (2022) | Eligibility
+  
+  - Exhibit a record of service to advance equitable access to higher education
+  
+  - Exhibit a record of leadership or significant experience teaching and mentoring
+  
+  - Express a commitment to research focusing on historically underserved populations and understanding issues of racial or gender inequalities
+
+## UCD DISSERTATION YEAR FELLOWSHIP (2022) | **Deadline: 11:59pm PST on Saturday, January 15, 2022**
+
+- NOTE: for whatever reason, UCD's app system registers things in EST
+
+- "The first round of notifications will be e-mailed approximately 60 days after your fellowship deadline": ~ March 15, 2022
+
+## APPLICATION COMPONENTS
+
+- Personal Background
+
+- Basic Information
+
+- Written Statements
+
+- Financial Information
+
+- Academic Information
+
+- Recommendations
+
+- Signature
+
+- Review
+
+## PERSONAL BACKGROUND
+- Name
+
+- Contact Information
+
+- Citizenship Information
+
+## BASIC INFORMATION
+- Graduate Group Information
+
+- Academic Milestones
+
+  - For "term in which you expect to complete your degree": Spring / Summer / Fall 2023
+  
+- Other funding?
+
+## WRITTEN STATEMENTS
+
+- Statement of Purpose
+
+- Personal History and Diversity Statement
+
+- Future Plans Essay
+
+- Noteworthy Achievements
+
+## WRITTEN STATEMENTS | Statement of Purpose [4000 characters]
+
+- "This essay should also address how fellowship funding will enhance your work and overall career goals."
+
+- Please provide an essay addressing the following points:
+  
+  - Academic status and objectives
+  
+  - Research interests and accomplishments
+  
+  - Plans for the fellowship period 
+
+## WRITTEN STATEMENTS | Personal History and Diversity Statement [4000 characters]
+
+- "This essay should complement but not duplicate the content in the Statement of Purpose."
+
+- Please explain how your personal background and/or present circumstances informs your graduate education and research. You may include: 
+  - any educational, familial, cultural, economic, or social experiences, challenges, community service, outreach activities, residency and citizenship, first-generation college status, or opportunities relevant to your academic journey; 
+  - how your life experiences contribute to the social, intellectual, or cultural diversity within our campus community and your chosen field; 
+  - how you serve educationally underrepresented and underserved segments of society with your graduate education.
+
+## WRITTEN STATEMENTS | Future Plans Essay [2000 characters]
+
+- "Briefly describe your proposed future occupation or profession."
+
+## WRITTEN STATEMENTS | Noteworthy Achievements
+
+- "Please list any publications or inventions." [2000 characters]
+
+- "Please list any honor societies, prizes, special distinctions, etc." [2000 characters]
+
+## FINANCIAL INFORMATION
+
+- "While all awards are based on merit, some fellowships require a student to demonstrate a minimum level of financial need."
+
+- If you have already been awarded financial support (fellowship, academic employment, etc.) for the 2022-23 academic year, please list the type of funding, the name of the funding agency or organization, and the amount of the award.
+
+## FINANCIAL INFORMATION
+
+- Briefly explain why you qualify for financial need fellowships [2500 characters] 
+
+- If you have previously received financial assistance as an undergraduate or graduate student, briefly describe the forms (loan, fellowship, academic employment, etc.) [no character limit posted]
+
+- If you will work outside UC Davis during academic year 2022-23, please describe your occupation and gross monthly income [2000 characters]
+
+- Spouse/partner financial information [2000 characters] 
+
+- List the ages of your dependent children [1000 characters] 
+
+## ACADEMIC INFORMATION
+
+- GPA
+
+- Unofficial UC Davis transcript
+  - "Unfortunately, at this time we cannot automatically add your UC Davis transcript to this fellowship application system. You must manually upload a PDF of your unofficial transcript."
+
+## RECOMMENDATIONS
+
+- "You are required to have three recommendations for this fellowship application."
+
+- Register recommenders in application by **December 20, 2021**
+
+- Deadline for receiving recommendation letters of reference is **January 18, 2022** (*not Jan 15, the app deadline*)
+
+## SIGNATURE
+
+- Vow that you are telling the truth, the whole truth & nothing but the truth in your application
+
+## REVIEW
+
+- Confirm that you have all your components!
+
+- GOOD LUCK!
